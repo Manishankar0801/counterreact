@@ -1,0 +1,16 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+}
+#button-container {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  width: 50px;
+}
+
+input {
+  height: 20px;
+  border-radius: 10px;
+}
