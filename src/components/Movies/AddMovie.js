@@ -1,4 +1,4 @@
-import { act, useState } from "react";
+import { useState } from "react";
 import "../style.css";
 const AddMovie = ({ addMovie }) => {
   let [newMovie, setNewMovie] = useState("");
